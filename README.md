@@ -2,8 +2,6 @@
 
 <img width="504" height="350" alt="image" src="https://github.com/user-attachments/assets/f36b8419-afb0-473e-9d59-9f0361e560ec" />
 
-Automation tool that injects randomized, human-like keystrokes into background windows to bypass detection without needing window focus
-
 -----
 
 ## Architecture
