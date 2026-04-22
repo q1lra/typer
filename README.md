@@ -13,10 +13,12 @@ A professional Windows utility developed in AutoHotkey v2 for simulating human-l
 * **Conditional Persistence:** Managed via a `background-typer.ini` handler. To maintain a clean file system, the configuration file is only generated if the user provides text input.
 * **Process Control:** Features a state-aware execution loop with real-time `Pause` and `Reload` (Emergency Stop) capabilities.
 
-## Requirements
+## Installation
 
-* **OS:** Windows 10/11
-* **Runtime:** [AutoHotkey v2.0+](https://www.autohotkey.com/)
+1.  **Install AutoHotkey:** Download and install [AutoHotkey v2.0+](https://www.autohotkey.com/).
+2.  **Download Script:** Save the `background-typer.ahk` source code to a folder of your choice.
+3.  **Run:** Double-click the `.ahk` file to launch the utility.
+4.  *(Optional)* **Compile:** Right-click the `.ahk` file and select **Compile Script** to create a standalone `.exe` executable.
 
 ## Operation Guide
 
