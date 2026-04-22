@@ -2,9 +2,6 @@
 
 <img width="504" height="350" alt="image" src="https://github.com/user-attachments/assets/63ef76fb-2618-46f9-bd3c-673beefe3f9c" />
 
-
-A professional Windows utility developed in AutoHotkey v2 for simulating human-like keyboard input to background processes.
-
 ## Technical Overview
 
 **Background Typer** utilizes the `ControlSend` API to inject keystrokes directly into a target application's message queue. This allows the utility to operate while the target window is in the background, bypassing standard copy-paste restrictions and simulating physical hardware events.
